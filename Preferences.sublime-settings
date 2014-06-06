@@ -1,0 +1,18 @@
+{
+	"theme": "Flatland Dark.sublime-theme",
+	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+	"draw_white_space": "all",
+	"font_face": "Arisaka-等幅",
+	"font_options":
+	[
+	],
+	"font_size": 18,
+	"highlight_line": true,
+	"show_encoding": true,
+	"tab_size": 4,
+	"trim_automatic_white_space": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
