@@ -1,11 +1,17 @@
 {
 	"installed_packages":
 	[
+		"BoundKeys",
 		"ConvertToUTF8",
+		"CTags",
 		"EncodingHelper",
+		"FindKeyConflicts",
 		"IMESupport",
+		"Markdown Extended",
 		"Markdown Preview",
+		"Monokai Extended",
 		"OmniMarkupPreviewer",
-		"Theme - Flatland"
+		"Theme - Flatland",
+		"TrailingSpaces"
 	]
 }
