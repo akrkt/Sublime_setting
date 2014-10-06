@@ -1,4 +1,6 @@
 [
 	{ "keys": ["shift+enter"], "command": "insert", "args": {"characters": "  \n"} },
 	{ "keys": ["ctrl+-"], "command": "insert", "args": {"characters": "- "} },
+	{ "keys": ["ctrl+tab"], "command": "next_view" },
+	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
 ]
