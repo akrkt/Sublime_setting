@@ -9,7 +9,9 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"BoundKeys",
+		"BracketHighlighter",
 		"ConvertToUTF8",
 		"CTags",
 		"EncodingHelper",
