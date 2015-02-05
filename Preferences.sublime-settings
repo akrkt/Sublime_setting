@@ -1,6 +1,13 @@
 {
-	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended Bright.tmTheme",
 	"draw_white_space": "all",
+	"file_exclude_patterns":
+	[
+		"*.d",
+		"*.tags",
+		"*.tags_sorted_by_file",
+		"*.o"
+	],
 	"font_face": "ARISAKA-Fix",
 	"font_options":
 	[
