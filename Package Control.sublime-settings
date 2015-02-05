@@ -1,7 +1,17 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"BoundKeys",
+		"BracketHighlighter",
 		"ConvertToUTF8",
 		"CTags",
 		"EncodingHelper",
@@ -11,7 +21,10 @@
 		"Markdown Preview",
 		"Monokai Extended",
 		"OmniMarkupPreviewer",
+		"Package Control",
 		"Pandoc",
+		"SideBarEnhancements",
+		"sublemacspro",
 		"Table Editor",
 		"Theme - Flatland",
 		"TrailingSpaces"
