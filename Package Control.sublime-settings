@@ -23,6 +23,8 @@
 		"Pandoc",
 		"SideBarEnhancements",
 		"sublemacspro",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
 		"Table Editor",
 		"Theme - Flatland",
 		"TrailingSpaces"
