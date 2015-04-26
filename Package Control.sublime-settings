@@ -5,13 +5,16 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"AutoFileName",
 		"BoundKeys",
 		"BracketHighlighter",
 		"ConvertToUTF8",
 		"CTags",
 		"EncodingHelper",
 		"FindKeyConflicts",
+		"HTML5",
 		"IMESupport",
+		"jQuery",
 		"Markdown Extended",
 		"Markdown Preview",
 		"Monokai Extended",
