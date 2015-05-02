@@ -19,6 +19,7 @@
 		"Vintage"
 	],
 	"show_encoding": true,
+	"show_line_endings": true,
 	"tab_size": 4,
 	"trim_automatic_white_space": false,
 	"word_wrap": "false"
