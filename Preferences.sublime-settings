@@ -8,11 +8,11 @@
 		"*.tags_sorted_by_file",
 		"*.o"
 	],
-	"font_face": "ARISAKA-Fix",
+	"font_face": "SourceHanCodeJP-Normal",
 	"font_options":
 	[
 	],
-	"font_size": 16,
+	"font_size": 14,
 	"highlight_line": true,
 	"ignored_packages":
 	[
