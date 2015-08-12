@@ -10,4 +10,7 @@
 	/* Tab selection	*/
 	{ "keys": ["ctrl+tab"], "command": "next_view" },
 	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+
+	/* toggle_mozc	*/
+	{ "keys": ["ctrl+space"], "command": "toggle_mozc" }
 ]
