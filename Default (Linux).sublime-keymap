@@ -13,4 +13,7 @@
 
 	/* toggle_mozc	*/
 	{ "keys": ["ctrl+\\"], "command": "toggle_mozc" },
+
+	/* AdvancedNewFile	*/
+	{ "keys": ["ctrl+x", "ctrl+f"], "command": "advanced_new_file_new"},
 ]
