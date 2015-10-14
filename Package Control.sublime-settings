@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -30,5 +31,9 @@
 		"Table Editor",
 		"Theme - Flatland",
 		"TrailingSpaces"
+	],
+	"repositories":
+	[
+		"https://github.com/yasuyuky/SublimeMozcInput"
 	]
 }
