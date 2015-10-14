@@ -10,4 +10,7 @@
 	/* Tab selection	*/
 	{ "keys": ["ctrl+tab"], "command": "next_view" },
 	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+
+	/* AdvancedNewFile	*/
+	{ "keys": ["ctrl+x", "ctrl+f"], "command": "advanced_new_file_new"},
 ]
